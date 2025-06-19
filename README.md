@@ -1,5 +1,7 @@
 # GenAIGame
 
+![Screenshot 2025-06-19 at 1 59 53 PM](https://github.com/user-attachments/assets/319af634-7079-4d30-bfee-31933a39ca7d)
+
 I've created a fun "Red Light, Green Light" game !
 
 Here's what the game includes:
@@ -27,3 +29,4 @@ Game Mechanics:
 • Responsive design with smooth animations
 
 To play the game, simply open the HTML file in your web browser:
+
