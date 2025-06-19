@@ -1,6 +1,6 @@
 # GenAIGame
 
-I've created a fun "Red Light, Green Light" game ! The game is now saved as red-light-green-light.html in your project directory.
+I've created a fun "Red Light, Green Light" game !
 
 Here's what the game includes:
 
